@@ -8,3 +8,10 @@ Backs up my obsidian vault folder to GitHub. First it checks for changes, if the
 
 Just a simple EOD backup script for a notes folder, will allow empty commits if nothing has changed
 
+## workbook_backup.sh
+
+Commits workbook to Github, every 30 minutes Monday through Friday 8am to 5pm. Allows for empty commits
+
+## jwt
+
+generates a jwt using the jsonwebtoken library
